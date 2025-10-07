@@ -1,6 +1,6 @@
 # Web-Based Machine Simulators
 
-Below are links to three web simulators I helped develop to during my Software Engineering Internship at LECO during the summer of 2025. These simulators replicate the functionality and UI of real machines which customers and sales teams to interact with the product without needing physical hardware.
+Below are links to three web simulators I helped develop to during my software engineering internship at LECO during the summer of 2025. These simulators replicate the functionality and UI of real machines which allow customers and sales teams to interact with the product without needing physical hardware.
 
 ## Simulators
 
